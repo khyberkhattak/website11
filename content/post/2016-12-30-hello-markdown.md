@@ -1,5 +1,5 @@
 ---
-title: "Hello Class - Can you see me"
+title: "Hello Class - can you see me?"
 date: "2016-12-30T21:49:57-07:00"
 ---
 
